@@ -1,4 +1,4 @@
-# PermutationTest
+
 # Quick Coding Test
 
 Welcome to  Quick Coding Test! This is a short coding problem that will hopefully take ~1hr.
