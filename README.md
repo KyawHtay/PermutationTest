@@ -1,7 +1,7 @@
 # PermutationTest
 # Quick Coding Test
 
-Welcome to Vitrue's Quick Coding Test! This is a short coding problem that will hopefully take ~1hr.
+Welcome to  Quick Coding Test! This is a short coding problem that will hopefully take ~1hr.
 
 Create a basic web app or write a function that accepts a string and returns true if any permutation of the string is the same read from the beginning or the end.
 
