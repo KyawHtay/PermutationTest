@@ -42,5 +42,15 @@ namespace PermutationUnitTests
             Assert.IsFalse(isFound);
 
         }
+
+        [Test]
+        public void GetPermute_NotIspotsstopp_Pass()
+        {
+            string str = "potspot";
+            WebAPIController controller = new WebAPIController();
+            bool isFound = controller.GetPermute(str, "potsstopp");
+            Assert.IsFalse(isFound);
+
+        }
     }
 }
