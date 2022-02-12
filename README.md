@@ -28,6 +28,6 @@ You can use any language you like! (in case you're wondering we use C# (backend)
 
 ( Assumption : Check only one string to match in permutation)
 
-1. Business Logic - 20 min
-2. API implementation - 10 min
+1. Business Logic - 10-20 min
+2. API implementation - 5-10 min
 3. Unit testing - 10 min
